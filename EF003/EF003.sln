@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF03ExecuteRawSql", "EF03ExecuteRawSql\EF03ExecuteRawSql.csproj", "{6573D328-B296-4DFA-9640-4F9D37716CC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF03.ExecuteSimpleInsert", "EF03.ExecuteSimpleInsert\EF03.ExecuteSimpleInsert.csproj", "{24F5CFC8-C365-4A70-8D2C-4CBF94884AF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF03.ExecuteInsertReturnIdentity", "EF03.ExecuteInsertReturnIdentity\EF03.ExecuteInsertReturnIdentity.csproj", "{1C77EAE4-A4EE-45BC-BD79-AC4C77017952}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF03.ExecuteUpdate", "EF03.ExecuteUpdate\EF03.ExecuteUpdate.csproj", "{FBC505EE-4EFF-43CA-99CC-434FD4F19426}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF03.ExecuteDelete", "EF03.ExecuteDelete\EF03.ExecuteDelete.csproj", "{B05A5646-DFD9-4B52-B146-CAE287611F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF03.ExecuteMultipleQueries", "EF03.ExecuteMultipleQueries\EF03.ExecuteMultipleQueries.csproj", "{182738D0-5810-4F38-AFB1-12EE879FA108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6573D328-B296-4DFA-9640-4F9D37716CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6573D328-B296-4DFA-9640-4F9D37716CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6573D328-B296-4DFA-9640-4F9D37716CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6573D328-B296-4DFA-9640-4F9D37716CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F5CFC8-C365-4A70-8D2C-4CBF94884AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F5CFC8-C365-4A70-8D2C-4CBF94884AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F5CFC8-C365-4A70-8D2C-4CBF94884AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F5CFC8-C365-4A70-8D2C-4CBF94884AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C77EAE4-A4EE-45BC-BD79-AC4C77017952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C77EAE4-A4EE-45BC-BD79-AC4C77017952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C77EAE4-A4EE-45BC-BD79-AC4C77017952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C77EAE4-A4EE-45BC-BD79-AC4C77017952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC505EE-4EFF-43CA-99CC-434FD4F19426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC505EE-4EFF-43CA-99CC-434FD4F19426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC505EE-4EFF-43CA-99CC-434FD4F19426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC505EE-4EFF-43CA-99CC-434FD4F19426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05A5646-DFD9-4B52-B146-CAE287611F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05A5646-DFD9-4B52-B146-CAE287611F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05A5646-DFD9-4B52-B146-CAE287611F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05A5646-DFD9-4B52-B146-CAE287611F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182738D0-5810-4F38-AFB1-12EE879FA108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182738D0-5810-4F38-AFB1-12EE879FA108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182738D0-5810-4F38-AFB1-12EE879FA108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182738D0-5810-4F38-AFB1-12EE879FA108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C02527-B745-42D8-9D70-344CAD99002B}
+	EndGlobalSection
+EndGlobal

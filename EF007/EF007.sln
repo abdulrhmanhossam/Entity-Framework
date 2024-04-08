@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF007.ConfigurationByConvention", "EF007.ConfigurationByConvention\EF007.ConfigurationByConvention.csproj", "{A4BE7A01-B79A-4A1F-91BD-720802953155}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF007.OverrideConfigurationByDataAnnotations", "EF007.OverrideConfigurationByDataAnnotations\EF007.OverrideConfigurationByDataAnnotations.csproj", "{851F3B98-B334-474A-868A-4CBC304B0131}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF007.OverrideConfigurationUsingFluentAPI", "EF007.OverrideConfigurationUsingFluentAPI\EF007.OverrideConfigurationUsingFluentAPI.csproj", "{645D0476-A422-4A40-803F-E2940C1E8173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF007.OverrideConfigurationByGrouping", "EF007.OverrideConfigurationByGrouping\EF007.OverrideConfigurationByGrouping.csproj", "{5C3B3F9B-26EA-4923-9517-B2B88D78D1BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF007.CallGroupingConfigurationUsingAssembliy", "EF007.CallGroupingConfigurationUsingAssembliy\EF007.CallGroupingConfigurationUsingAssembliy.csproj", "{4F9537C2-88B3-42CC-AD7F-45E652324632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4BE7A01-B79A-4A1F-91BD-720802953155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BE7A01-B79A-4A1F-91BD-720802953155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BE7A01-B79A-4A1F-91BD-720802953155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BE7A01-B79A-4A1F-91BD-720802953155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851F3B98-B334-474A-868A-4CBC304B0131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851F3B98-B334-474A-868A-4CBC304B0131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851F3B98-B334-474A-868A-4CBC304B0131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851F3B98-B334-474A-868A-4CBC304B0131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645D0476-A422-4A40-803F-E2940C1E8173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645D0476-A422-4A40-803F-E2940C1E8173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645D0476-A422-4A40-803F-E2940C1E8173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645D0476-A422-4A40-803F-E2940C1E8173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3B3F9B-26EA-4923-9517-B2B88D78D1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3B3F9B-26EA-4923-9517-B2B88D78D1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3B3F9B-26EA-4923-9517-B2B88D78D1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3B3F9B-26EA-4923-9517-B2B88D78D1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9537C2-88B3-42CC-AD7F-45E652324632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9537C2-88B3-42CC-AD7F-45E652324632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9537C2-88B3-42CC-AD7F-45E652324632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9537C2-88B3-42CC-AD7F-45E652324632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFFF3E7B-F0E8-4AED-AFDB-2A1422A29956}
+	EndGlobalSection
+EndGlobal

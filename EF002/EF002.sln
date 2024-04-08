@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF02.ConnectionString", "EF02.ConnectionString\EF02.ConnectionString.csproj", "{499763DA-E9F4-4C19-A18A-52BE21C7CE9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF02.ExecuteRawSql", "EF02.ExecuteRawSql\EF02.ExecuteRawSql.csproj", "{DCDFD757-CC5A-4AB0-B2D9-076572BDAFB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF02.ExecuteInsertRawSql", "EF02.ExecuteInsertRawSql\EF02.ExecuteInsertRawSql.csproj", "{3B822BE0-C7E1-4985-AD7E-766B9D8D5492}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF02.ExecuteInsertExecuteScaler", "EF02.ExecuteInsertExecuteScaler\EF02.ExecuteInsertExecuteScaler.csproj", "{D8D03EE4-F39F-435F-92EA-E7515F01AF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF02.ExecuteInsertStoredProcedure", "EF02.ExecuteInsertStoredProcedure\EF02.ExecuteInsertStoredProcedure.csproj", "{51207EB6-22A4-4012-A6DE-F25582B41771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF02.ExecuteUpdateRawSql", "EF02.ExecuteUpdateRawSql\EF02.ExecuteUpdateRawSql.csproj", "{937CD307-BA6C-4568-9222-72412C57A15C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499763DA-E9F4-4C19-A18A-52BE21C7CE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499763DA-E9F4-4C19-A18A-52BE21C7CE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499763DA-E9F4-4C19-A18A-52BE21C7CE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499763DA-E9F4-4C19-A18A-52BE21C7CE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDFD757-CC5A-4AB0-B2D9-076572BDAFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDFD757-CC5A-4AB0-B2D9-076572BDAFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDFD757-CC5A-4AB0-B2D9-076572BDAFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDFD757-CC5A-4AB0-B2D9-076572BDAFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B822BE0-C7E1-4985-AD7E-766B9D8D5492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B822BE0-C7E1-4985-AD7E-766B9D8D5492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B822BE0-C7E1-4985-AD7E-766B9D8D5492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B822BE0-C7E1-4985-AD7E-766B9D8D5492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D03EE4-F39F-435F-92EA-E7515F01AF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D03EE4-F39F-435F-92EA-E7515F01AF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D03EE4-F39F-435F-92EA-E7515F01AF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D03EE4-F39F-435F-92EA-E7515F01AF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51207EB6-22A4-4012-A6DE-F25582B41771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51207EB6-22A4-4012-A6DE-F25582B41771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51207EB6-22A4-4012-A6DE-F25582B41771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51207EB6-22A4-4012-A6DE-F25582B41771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937CD307-BA6C-4568-9222-72412C57A15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937CD307-BA6C-4568-9222-72412C57A15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937CD307-BA6C-4568-9222-72412C57A15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937CD307-BA6C-4568-9222-72412C57A15C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76199FA6-3286-4761-9A2A-8CF78F8BB7ED}
+	EndGlobalSection
+EndGlobal

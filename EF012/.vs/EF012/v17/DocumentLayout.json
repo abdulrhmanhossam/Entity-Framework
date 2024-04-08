@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#_MVC_Projects\\EF012\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\data\\configuration\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\data\\configuration\\enrollmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\data\\configuration\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\data\\configuration\\instructorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\data\\configuration\\sectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\data\\configuration\\sectionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\data\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\data\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\data\\configuration\\officeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\data\\configuration\\officeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\data\\configuration\\scheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\data\\configuration\\scheduleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\data\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\data\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\entities\\timeslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|e:\\c#_mvc_projects\\ef012\\ef010.intitialmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C342C3-2DC0-4786-8266-FE02A2816021}|EF010.IntitialMigration\\EF012.CodeFirstMigration.csproj|solutionrelative:ef010.intitialmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentConfiguration.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Data\\Configuration\\EnrollmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:12:13.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OfficeConfiguration.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\OfficeConfiguration.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Data\\Configuration\\OfficeConfiguration.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\OfficeConfiguration.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Data\\Configuration\\OfficeConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:07:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleConfiguration.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\ScheduleConfiguration.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Data\\Configuration\\ScheduleConfiguration.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\ScheduleConfiguration.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Data\\Configuration\\ScheduleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:07:52.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Data\\Configuration\\StudentConfiguration.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\StudentConfiguration.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Data\\Configuration\\StudentConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:07:35.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Data\\Configuration\\CourseConfiguration.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\CourseConfiguration.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Data\\Configuration\\CourseConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:07:28.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorConfiguration.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\InstructorConfiguration.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Data\\Configuration\\InstructorConfiguration.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\InstructorConfiguration.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Data\\Configuration\\InstructorConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:07:17.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimeSlot.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Entities\\TimeSlot.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Entities\\TimeSlot.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Entities\\TimeSlot.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Entities\\TimeSlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:05:00.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SectionConfiguration.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\SectionConfiguration.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Data\\Configuration\\SectionConfiguration.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Data\\Configuration\\SectionConfiguration.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Data\\Configuration\\SectionConfiguration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAywBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:04:43.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Program.cs",
+              "RelativeDocumentMoniker": "EF010.IntitialMigration\\Program.cs",
+              "ToolTip": "E:\\C#_MVC_Projects\\EF012\\EF010.IntitialMigration\\Program.cs",
+              "RelativeToolTip": "EF010.IntitialMigration\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIA3wB0AAAATAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T11:15:23.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
